@@ -180,9 +180,9 @@ Disconnect both the USB-C cable and the battery.
 
 ## next steps
 
-Follow the [software setup guide](./software_setup) to install RetroPie on the Raspberry Pi and verify functionality.
+Follow the [software setup guide](./software_setup.md) to install RetroPie on the Raspberry Pi and verify functionality.
 
 Once you have installed RetroPie and verified that the hardware is working, continue to the final assembly guide for your build option.
 
-- [final assembly - 3D printed case version](./3dp_assembly)
-- [final assembly - Altoids tin version](./altoids_assembly)
+- [final assembly - 3D printed case version](./3dp_assembly.md)
+- [final assembly - Altoids tin version](./altoids_assembly.md)

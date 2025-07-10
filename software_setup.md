@@ -1,6 +1,6 @@
 # Pi Tin Software Setup
 
-For convenience, we provide a SD card image based on [RetroPie 4.8](https://retropie.org.uk/download/) with all required software installed and configured. This guide assumes you are using the prebuilt image. If not, full instructions for installing the required software on top of a clean install of RetroPie are [here](./full_software_setup).
+For convenience, we provide a SD card image based on [RetroPie 4.8](https://retropie.org.uk/download/) with all required software installed and configured. This guide assumes you are using the prebuilt image. If not, full instructions for installing the required software on top of a clean install of RetroPie are [here](./full_software_setup.md).
 
 ## 1. install the prebuilt image
 
@@ -62,5 +62,5 @@ input_volume_down_axis = "+1"
 
 Once you have installed and configured RetroPie and verified that the hardware is working, continue to the final assembly guide for your build option.
 
-- [final assembly - 3D printed case version](./3dp_assembly)
-- [final assembly - Altoids tin version](./altoids_assembly)
+- [final assembly - 3D printed case version](./3dp_assembly.md)
+- [final assembly - Altoids tin version](./altoids_assembly.md)

@@ -38,7 +38,7 @@ The Altoids tin build option is more difficult than the 3D printed case option; 
 
 **Important: Read through all the instructions thoroughly before building. This is an intermediate level project and we don't recommend attempting it without prior electronics kit building experience.**
 
-Build instructions for both options start with the [hardware build guide](./hardware_build).
+Build instructions for both options start with the [hardware build guide](./hardware_build.md).
 
 ## license
 

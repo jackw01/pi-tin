@@ -40,8 +40,8 @@ nav_items:
     text: Final Assembly (Altoids Tin Version)
 custom_buttons:
   - 1:
-    url: https://sendfox.com/alleycatengineering
-    text: Get notified when kits are available
+    url: https://www.tindie.com/stores/alleycateng/
+    text: Buy a kit on Tindie
   - 2:
     url: https://jackw01.github.io/pi-tin/3d/pi_tin_stl.zip
     text: Download STL files

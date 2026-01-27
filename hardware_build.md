@@ -55,7 +55,6 @@
 
 - drill with 1/16in (1.5mm) and 1/8in (3mm) drill bits and countersink bit
 - needle files, or rotary tool with small abrasive grinding bits
-- wood block that fits inside open Altoids tin, to support it during drilling
 - isopropyl alcohol, 91%
 - thin double-sided tape (such as 3M 467MP/468MP or Tesa 61395)
 - cyanoacrylate adhesive (super glue)

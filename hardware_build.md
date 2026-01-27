@@ -7,17 +7,17 @@
 - Raspberry Pi Zero 2 W (Pi Zero 1 not tested, and will probably not work)
 - Pi Tin Main PCB
 - Pi Tin Display Interconnect PCB
-- 2.8" ILI9341 TFT display with 50-pin FPC connector ([Adafruit 1774](https://www.adafruit.com/product/1774))
+- 2.8" ILI9341 TFT display with 50-pin FPC connector ([Adafruit 1774](https://www.adafruit.com/product/1774) or equivalent)
 - Micro SD card, 8GB or larger
-- speaker ([CUI CMS-151125-076S-67](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CMS-151125-076S-67/9561097))
-- display interconnect cable ([GCT 10-08-A-0050-C-4-08-4-T](https://www.digikey.com/en/products/detail/gct/10-08-A-0050-C-4-08-4-T/22247571))
+- speaker ([CUI CMS-151125-076S-67](https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/CMS-151125-076S-67/9561097) or equivalent)
+- display interconnect cable ([GCT 10-08-A-0050-C-4-08-4-T](https://www.digikey.com/en/products/detail/gct/10-08-A-0050-C-4-08-4-T/22247571) or equivalent)
 - 3D printed faceplate
 - D-pad, A/B/X/Y, start, and select buttons (either 3D printed or DS Lite buttons)
-- 3D printed TPU button inserts/membranes (exact parts needed depend on buttons used)
+- 3D printed TPU button inserts/membranes (exact parts needed depend on buttons used - **membranes for 3D printed buttons now included in kits**)
 
 ### for 3D printed case version
 
-- 2000mAH LiPo battery, 8.0x38x60mm ([Adafruit 2011](https://www.adafruit.com/product/2011))
+- 2000mAH LiPo battery, 8x38x60mm or 8x35x61mm (such as [Adafruit 2011](https://www.adafruit.com/product/2011))
 - 5x M2x12 socket head cap screw
 - 4x M2x4 socket head cap screw
 - 2x M2x20 socket head cap screw
@@ -27,7 +27,7 @@
 
 ### for Altoids tin version
 
-- 1200mAH LiPo battery, 5.0x35x62mm ([Adafruit 258](https://www.adafruit.com/product/258))
+- 1200mAH LiPo battery, 5x35x62mm or 5x34x60mm (such as [Adafruit 258](https://www.adafruit.com/product/258))
 - Altoids Classic 1.76oz tin (other brands or sizes will not work)
 - 6x M2x8 socket head cap screw
 - 4x 4x2mm neodymium disc magnets
@@ -42,19 +42,19 @@
 
 - soldering iron with narrow conical tip
 - solder (63% tin / 37% lead solder, 0.6mm or smaller diameter recommended)
-- 2mm thick x 10mm wide EPDM foam tape or similar adhesive-backed foam (included in kits)
+- 2mm thick EPDM foam tape or similar adhesive-backed foam (**included in kits**)
 - flux pen or paste flux (use rosin or no-clean flux only, not water soluble flux. we recommend [Chip Quik NC191](https://www.digikey.com/en/products/detail/chip-quik-inc/NC191/11480391))
 - two binder clips or small spring clamps (such as [Harbor Freight #69375](https://www.harborfreight.com/micro-spring-clamp-set-6-piece-69375.html))
 - multimeter with continuity test setting
 - 1.5mm hex screwdriver or allen key
 - fine point tweezers
+- small flush wire cutters
 - computer with Micro SD card reader
 
 ### for Altoids tin version
 
 - drill with 1/16in (1.5mm), 1/8in (3mm), and 3/16in (5mm) drill bits
 - needle files, or rotary tool with small abrasive grinding bits
-- small flush wire cutters
 - wood block that fits inside open Altoids tin, to support it during drilling
 - isopropyl alcohol, 91%
 - thin double-sided tape (such as 3M 467MP/468MP or Tesa 61395)
@@ -158,11 +158,17 @@ Insert the speaker into the front panel with the contacts facing upwards and to 
 
 ![](images/speaker_insertion.png)
 
+If using the TPU button membranes included in the kits, cut the D-pad and A/B/X/Y button membranes apart along the red lines in the image below.
+
+*Note: The central "nub" of the D-pad membrane included in kits is intentionally oversized to accomodate variation in the other 3D printed parts. If the d-pad is hard to press once the front panel is attached to the PCB, this can be corrected by trimming this nub down slightly with flush cutters.*
+
+![](images/membrane_cuts.png)
+
 If using 3D printed buttons, place the 3D printed TPU A/B/X/Y and D-pad membranes over the buttons as shown.
 
 ![](images/front_panel_3dp_buttons.png)
 
-If using DS Lite buttons, insert the 3D printed TPU plugs into the A, B, X, Y, start, and select buttons and fit  the D-pad membrane over the peg at the center of the D-pad.
+If using DS Lite buttons, insert the 3D printed TPU plugs into the A, B, X, Y, start, and select buttons and fit the D-pad membrane over the peg at the center of the D-pad.
 
 ![](images/front_panel_dslite_buttons.png)
 

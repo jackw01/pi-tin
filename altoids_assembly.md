@@ -8,29 +8,35 @@ Insert three 4x2mm neodymium disc magnets into the rear housing as shown, applyi
 
 ![](images/mint_tin_insert_magnets.png)
 
-Place the Main PCB onto the assembled front panel and connect the battery, leaving a loop in the battery wires.
+### if using 803561 size battery (currently included in kits)
 
-![](images/mint_tin_battery.jpg)
-
-Insert the four rear buttons into the rear housing, then pick up the front panel and Main PCB together and mate them with the rear housing. The components should fit together closely without applying any force and the battery wires must not be pinched between the rear housing and PCB. Insert six M2x8mm socket head cap screws into the counterbore holes on the rear housing and tighten them in a star pattern. Do not overtighten the screws - stop tightening as soon as no gap is visible between the 3D printed parts and the PCB.
+Insert the four rear buttons into the rear housing, then pick up the front panel and Main PCB together and mate them with the rear housing. The components should fit together closely without applying any force. Insert six M2x8mm socket head cap screws into the counterbore holes on the rear housing and tighten them in a star pattern. Do not overtighten the screws - stop tightening as soon as no gaps are visible between the edges of the 3D printed parts and the PCB.
 
 *Note: Some downward pressure is required when tightening the screws for the first time since they are threading directly into plastic.*
 
-![](images/mint_tin_asm.jpg)
+Check that the buttons on the front panel are not stuck. If they are, it is likely due to misalignment of the 3D printed membrane or defects on the 3D printed parts that need to be trimmed off.
 
-Check that the buttons on the front panel are not sticking. If they are, it is likely due to misalignment of the 3D printed membrane or defects on the 3D printed parts that need to be trimmed off.
+Thread the battery wires through the gap between the rear housing and PCB as shown.
 
-Apply two 6x10mm pieces and one 18x10mm piece of EPDM foam tape in the locations highlighted in blue below to cushion the battery and keep the assembly centered inside the mint tin.
+![](images/mint_tin_new_battery.jpg)
+
+Apply two 6x10mm pieces and one 18x10mm piece of EPDM foam tape in the locations highlighted in blue below to cushion the battery and keep the assembly centered inside the mint tin. Connect the battery to the main PCB and insert it into the battery compartment and tuck the wires in place along the side of the battery.
 
 ![](images/mint_tin_foam_tape.png)
 
+![](images/mint_tin_new_battery_asm.jpg)
+
+### if using 803860 size battery
+
+[Follow old instructions](./altoids_old_battery_installation.md)
+
 ## 2. prepare the Altoids tin
 
-Align the drill guide with the tin as shown and use it to mark locations for drilling holes for the USB port and rear buttons. Mark the center of the holes using a center punch or scribe. Use caution if using an automatic center punch as it will leave large dents in the tin if nothing is placed on the other side of the thin metal.
+Align the 3D printed drill template with the tin as shown and use a marker to transfer the hole locations for the USB port and rear buttons to the tin. Mark the center of the holes using a center punch, scribe, or the tip of a drill bit. If using an automatic center punch, ensure that the metal is supported from the other side as it will leave dents in the tin otherwise.
 
 ![](images/drill_guide.png)
 
-Drill all holes with a 1/16in (1.5mm) drill bit. Drill out the four rear button holes to 3/16in (5mm), gradually increasing drill bit sizes and using a sacrificial piece of wood on the other side of the tin to keep the metal from tearing. Drill out the two holes forming the USB port cutout to 1/8in (3mm). Use flush wire cutters to cut out the remaining tab of metal between the holes. Using needle files or a rotary tool, file the USB port cutout to its final shape and debur the edges of the other holes.
+If you have one, we recommend used a rotary tool with a fine-point abrasive bur to create the holes instead of drilling. Otherwise, drill all holes with a 1/16in (1.5mm) drill bit. Drill out the four rear button holes to 3/16in (5mm), gradually increasing drill bit sizes and using a sacrificial piece of wood on the other side of the tin to keep the metal from tearing. Drill out the two holes forming the USB port cutout to 1/8in (3mm). Use flush wire cutters to cut out the remaining tab of metal between the holes. Using needle files or a rotary tool, file the USB port cutout to its final shape and debur the edges of the other holes.
 
 ![](images/tin_holes.png)
 
@@ -50,9 +56,9 @@ Insert the 4x2mm neodymium disc magnet into the lid clip as shown, applying a sm
 
 ## 4. display
 
-*Note: 3D printed parts in Altoids tin kits will have tape pre-applied. Rev. 1 Display PCB shown, Rev. 2 is smaller but the relative position of the connectors is the same.*
+*Note: Rev. 1 Display PCB shown, Rev. 2 is smaller but the relative position of the connectors is the same.*
 
-Connect the display to the display PCB if it is not already, following the instructions in the electronics build guide. Use thin double-sided tape or a few tiny drops of cyanoacrylate glue to attach the Display PCB to the rear of the display in its natural resting position, as shown below. The display FPC (orange ribbon cable) should lay flat and must **not** be under any tension. The Display PCB should not overhang the edges of the display module and the display interconnect cable should be roughly centered with the viewing area of the display.
+Connect the display to the display PCB if it is not already, following the instructions in the electronics build guide. Use thin double-sided tape to attach the Display PCB to the rear of the display in its natural resting position, as shown below. The display FPC (orange ribbon cable) should lay flat and must **not** be under any tension. The Display PCB should not overhang the edges of the display module and the display interconnect cable should be roughly centered with the viewing area of the display.
 
 **Rev. 2 PCB**
 
@@ -78,7 +84,7 @@ Apply thin double-sided tape to the display mount. Attach it to the inside of th
 
 ![](images/display_tape_5.jpg)
 
-**Note: When installed correctly, the display module will appear off center. This is intentional and the viewing area of the display will be centered as shown below.**
+**Note: When installed correctly, the display module will appear off center. This is intentional and the actual viewing area of the display will be centered as shown below.**
 
 ![](images/display_centering.png)
 

@@ -8,11 +8,27 @@ Fit the Main PCB assembly into the lower case by inserting the PCB at an angle, 
 
 *Troubleshooting Note: If one of the buttons still gets stuck, it may be due to poor alignment of the Main PCB and Raspberry Pi putting pressure on the tactile switch. In this case, try shimming the PCB by inserting a small piece of paper or tape between the edge of the PCB near the button and the lower case in the next step.*
 
-## 2. lower case assembly
+## 2. battery installation
 
-Remove the PCB and screws from the lower case and apply one 6x10mm piece of EPDM foam tape in the location highlighted in blue below to cushion the battery.
+Remove the PCB and screws from the lower case and apply a 6x10mm piece of EPDM as shown below to cushion the battery.
 
-![](images/3dp_case_foam_tape.png)
+![](images/lower_case_foam.jpg)
+
+### if using 803561 size battery (currently included in kits)
+
+Taping the wires along the edge of the battery as shown below  with any thin tape is not necessary, but will help with the next steps.
+
+![](images/new_battery_tape.jpg)
+
+Insert the battery into the lower case as shown, with the wires running along the bottom edge of the battery compartment.
+
+![](images/lower_case_new_battery_1.jpg)
+
+Connect the battery to the Main PCB. Apply a 6x10mm piece of EPDM foam tape to the rear of the Raspberry Pi as shown to cushion the battery. Disconnect the display cable from the Display PCB (lift the black retention flap on the connector, then remove the cable) and connect it to the Main PCB.
+
+![](images/lower_case_new_battery_2.jpg)
+
+### if using 803860 size battery
 
 Insert the battery into the lower case with the wires facing to the right. Coil the wires as shown and connect the battery to the Main PCB. Disconnect the display cable from the Display PCB (lift the black retention flap on the connector, then remove the cable) and connect it to the Main PCB.
 
@@ -20,7 +36,9 @@ Insert the battery into the lower case with the wires facing to the right. Coil 
 
 ![](images/lower_case_battery_2.jpg)
 
-Insert the Main PCB assembly into the lower case. The battery wires should stay in the space to the right of the battery and must not be pinched between the PCB and case or battery.
+## 3. lower case assembly
+
+Insert the Main PCB assembly into the lower case. **Ensure that the battery wires do not become pinched between the PCB and case or battery.**
 
 ![](images/lower_case_pcb.jpg)
 
@@ -32,9 +50,9 @@ The Main PCB assembly should ideally fit snugly inside the lower case. If it is 
 
 ![](images/lower_case_asm.jpg)
 
-Check that the buttons on the front panel are not sticking. If they are, it is likely due to misalignment of the 3D printed membrane or defects on the 3D printed parts that need to be trimmed off.
+Check that the buttons on the front panel are not stuck. If they are, it is likely due to misalignment of the 3D printed membrane or defects on the 3D printed parts that need to be trimmed off.
 
-## 3. display assembly
+## 4. display assembly
 
 *Note: Rev. 1 Display PCB shown, Rev. 2 is smaller but the relative position of the connectors is the same.*
 
@@ -46,7 +64,7 @@ Place the display housing over the display bezel, aligning the cutout in the hou
 
 ![](images/display_housing_asm.jpg)
 
-## 4. final assembly
+## 5. final assembly
 
 Align the display housing with the mounting points on the lower case, folding the display cable forward as shown. Insert and tighten the two M2x20 socket head cap screws that hold the display hinge together.
 

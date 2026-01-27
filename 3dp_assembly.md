@@ -10,13 +10,13 @@ Fit the Main PCB assembly into the lower case by inserting the PCB at an angle, 
 
 ## 2. battery installation
 
-Remove the PCB and screws from the lower case and apply a 6x10mm piece of EPDM as shown below to cushion the battery.
+Remove the PCB and screws from the lower case and apply a 6x10mm piece of EPDM foam tape as shown below to cushion the battery.
 
 ![](images/lower_case_foam.jpg)
 
 ### if using 803561 size battery (currently included in kits)
 
-Taping the wires along the edge of the battery as shown below  with any thin tape is not necessary, but will help with the next steps.
+Taping the wires along the edge of the battery as shown below is not necessary, but will help with the next steps.
 
 ![](images/new_battery_tape.jpg)
 
@@ -24,7 +24,7 @@ Insert the battery into the lower case as shown, with the wires running along th
 
 ![](images/lower_case_new_battery_1.jpg)
 
-Connect the battery to the Main PCB. Apply a 6x10mm piece of EPDM foam tape to the rear of the Raspberry Pi as shown to cushion the battery. Disconnect the display cable from the Display PCB (lift the black retention flap on the connector, then remove the cable) and connect it to the Main PCB.
+Connect the battery to the Main PCB. Apply a 6x10mm piece of foam tape to the rear of the Raspberry Pi as shown to cushion the battery. Disconnect the display cable from the Display PCB (lift the black retention flap on the connector, then remove the cable) and connect it to the Main PCB.
 
 ![](images/lower_case_new_battery_2.jpg)
 

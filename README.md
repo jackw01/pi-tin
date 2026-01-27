@@ -10,8 +10,6 @@ Pi Tin's gamepad uses the exact same Alps tactile switches and elastomer membran
 
 Building a Pi Tin requires a Raspberry Pi Zero 2 W, two custom PCBs, some 3D printed parts, and a few other components which are readily available from distributors. The PCBs require advanced soldering skills and ideally both a hot plate and hot air station to assemble by hand. We are working on making kits with assembled PCBs available to purchase.
 
-Shown below are Rev. 2 PCBs, manufactured by [PCBWay](https://www.pcbway.com/). PCBWay reached out to sponsor this project and I was excited to work with them as I have used PCBWay before at work and have been consistently satisfied with their customization options, turnkey parts sourcing ability, and very responsive customer support. The quality of PCBs they delivered here was excellent as always.
-
 ![](images/pcbway_pcbs.jpg)
 
 ![](images/main_pcb_drawing.png)
@@ -42,11 +40,13 @@ The Altoids tin build option is more difficult than the 3D printed case option; 
 
 Build instructions for both options start with the [hardware build guide](./hardware_build.md).
 
+![](images/kits.jpg)
+
 ## license
 
 The source files for this project are located at [https://github.com/jackw01/pi-tin/](https://github.com/jackw01/pi-tin/).
 
-The PCB schematics, layouts, and Gerber files and the 3D CAD files for this project are released under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W V2). The files in the `software` directory are in the public domain, free of copyright restrictions. The text, photographs, and illustrations on this website may not be reproduced without permission.
+The PCB schematics, layouts, and Gerber files and the 3D CAD files for this project are released under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W V2). The files in the `software` directory are in the public domain, free of copyright restrictions. The documentation for this project is released under the [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## mintypi disclaimer
 
@@ -54,4 +54,4 @@ We are aware of the existence of MintyPi; our main motivation for building this 
 
 ## legal disclaimer
 
-Any trademarked product names found on this website belong to their respective owners; this project is in no way affiliated with or endorsed by these companies. Pi Tin is designed to run [RetroPie](https://retropie.org.uk/), which is open source software released under the GPL. The prebuilt RetroPie disk image we provide does not contain any copyrighted ROMs or games. Pi Tin is not designed to enable illegal activity; we do not condone piracy and we will not provide support to anyone looking to obtain copyrighted content. Posting requests for copyrighted ROMs or other piracy-related content on GitHub issues or discussions will result in deletion and a ban.
+Any trademarked product names found on this website belong to their respective owners; this project is in no way affiliated with or endorsed by these companies. Pi Tin is designed to run [RetroPie](https://retropie.org.uk/), which is open source software released under the GPL. The prebuilt RetroPie disk image we provide does not contain any copyrighted ROMs or games. Pi Tin is not designed to enable illegal activity; we do not condone piracy and we will not provide support to anyone looking to obtain copyrighted content.

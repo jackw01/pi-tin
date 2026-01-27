@@ -20,7 +20,7 @@ Thread the battery wires through the gap between the rear housing and PCB as sho
 
 ![](images/mint_tin_new_battery.jpg)
 
-Apply two 6x10mm pieces and one 18x10mm piece of EPDM foam tape in the locations highlighted in blue below to cushion the battery and keep the assembly centered inside the mint tin. Connect the battery to the main PCB and insert it into the battery compartment and tuck the wires in place along the side of the battery.
+Apply two 6x10mm pieces and one 18x10mm piece of EPDM foam tape in the locations highlighted in blue below to cushion the battery and keep the assembly centered inside the mint tin. Connect the battery to the main PCB, insert it into the battery compartment, and tuck the wires in place along the side of the battery.
 
 ![](images/mint_tin_foam_tape.png)
 
@@ -36,7 +36,7 @@ Align the 3D printed drill template with the tin as shown and use a marker to tr
 
 ![](images/drill_guide.png)
 
-If you have one, we recommend used a rotary tool with a fine-point abrasive bur to create the holes instead of drilling. Otherwise, drill all holes with a 1/16in (1.5mm) drill bit. Drill out the four rear button holes to 3/16in (5mm), gradually increasing drill bit sizes and using a sacrificial piece of wood on the other side of the tin to keep the metal from tearing. Drill out the two holes forming the USB port cutout to 1/8in (3mm). Use flush wire cutters to cut out the remaining tab of metal between the holes. Using needle files or a rotary tool, file the USB port cutout to its final shape and debur the edges of the other holes.
+If you have one, we recommend used a rotary tool with a fine-point abrasive bur to create the holes instead of drilling. Otherwise, drill all holes with a 1/16in (1.5mm) drill bit and then drill them out to 1/8in (3mm), using gradually increasing drill bit sizes if possible. Use a countersink bit to enlarge the four rear holes to approximately 3/16in (5mm). Use flush wire cutters or a rotary tool to cut out the remaining tab of metal between the USB port holes. Using needle files or a rotary tool, file the USB port cutout to its final shape and debur the edges of the other holes.
 
 ![](images/tin_holes.png)
 

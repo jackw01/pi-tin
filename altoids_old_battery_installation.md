@@ -17,3 +17,5 @@ Check that the buttons on the front panel are not stuck. If they are, it is like
 Apply two 6x10mm pieces and one 18x10mm piece of EPDM foam tape in the locations highlighted in blue below to cushion the battery and keep the assembly centered inside the mint tin.
 
 ![](images/mint_tin_foam_tape.png)
+
+[Continue with step 2](altoids_assembly#2-prepare-the-altoids-tin)

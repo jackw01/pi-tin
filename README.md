@@ -2,7 +2,7 @@
 
 ![](images/main.jpg)
 
-**Kits now available on [Tindie](https://www.tindie.com/stores/alleycateng/)!**
+**Kits are now available [here](https://ko-fi.com/Z8Z41BCFDD/shop)!**
 
 Pi Tin is an open source retro gaming device designed around the Raspberry Pi Zero 2 W and a 2.8" 320x240 TFT display, the largest readily available size that will fit into an Altoids tin. The Pi Zero 2 W is capable of emulating most SNES, GBA, PS1, Genesis/Megadrive, and even some N64 games.
 
